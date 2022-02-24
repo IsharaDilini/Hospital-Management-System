@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'practicalcenter'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_54A37248B30B4F9CAE7F256939952353 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_31A76B08E46143E2B945C887E1BE8BA9 }}
           package: .
